@@ -1,4 +1,4 @@
-/* body{
+body{
     background-color: white;
 }
 
@@ -26,18 +26,4 @@ input{
     padding: 0.33rem 1rem;
     font-size: 1.2rem;
     outline: none;
-} */
-
-body {
-    transition: background-color 0.5s ease;
-}
-
-.light-mode {
-    background-color: white;
-    color: black;
-}
-
-.dark-mode {
-    background-color: black;
-    color: white;
 }
